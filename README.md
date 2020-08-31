@@ -23,7 +23,7 @@ untuk versi ini menggunakan algoritma DFS.
 
 ---
 # contributor
-Tekad Matulatan
+Tekad Matulatan</br>
 Dendi
 
 ---
