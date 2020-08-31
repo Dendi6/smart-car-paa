@@ -1,7 +1,7 @@
 ## smart-car
 
 Tugas dari Perancangan Analisis Algoritma, Dosen Tekad Matulatan. Kodingan dapat di akses di 
-> https://github.io/dendi6/smart-car.git </br>
+> <a href="https://github.com/dendi6/smart-car.git">https://github.com/dendi6/smart-car.git</a></br>
 
 Link On Github Pages
 > https://dendi6.github.io/smart-car/
@@ -10,7 +10,7 @@ Link On Github Pages
 
 ## Clone
 Dapat dilakukan dengan perintah
-> git clone https://github.io/dendi6/smart-car.git
+> git clone https://github.com/dendi6/smart-car.git
 
 ## memulai
 Jalankan aplikasi menggunakan intellij IDEA atau netbeans.
