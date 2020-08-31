@@ -2,7 +2,8 @@
 
 Tugas dari Perancangan Analisis Algoritma, Dosen Tekad Matulatan.
 
---
+---
+
 ## Clone
 Dapat dilakukan dengan perintah
 > git clone https://github.io/dendi6/smart-car.git
@@ -20,9 +21,10 @@ Tugas menggunakan maven.
 Algoritma yang di pakai di bebaskan kepada pengguna agar bisa memilih. 
 untuk versi ini menggunakan algoritma DFS.
 
---
+---
+# contributor
 Tekad Matulatan
 Dendi
 
---
+---
 ©Teknik Informatika
