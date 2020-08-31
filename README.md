@@ -5,6 +5,7 @@ Tugas dari Perancangan Analisis Algoritma, Dosen Tekad Matulatan. Kodingan dapat
 
 Link On Github Pages
 > <a href="https://dendi6.github.io/smart-car/">https://dendi6.github.io/smart-car/</a>
+
 ---
 
 ## Clone
@@ -31,6 +32,7 @@ untuk versi ini menggunakan algoritma DFS.
   <li>Tekad Matulatan</li>
   <li>Dendi</li>
 </ul>
+
 ---
 
 ©Teknik Informatika
