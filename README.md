@@ -1,6 +1,7 @@
 ## smart-car
 
-Tugas dari Perancangan Analisis Algoritma, Dosen Tekad Matulatan.
+Tugas dari Perancangan Analisis Algoritma, Dosen Tekad Matulatan. Kodingan dapat di akses di 
+> https://github.io/dendi6/smart-car.git
 
 ---
 
