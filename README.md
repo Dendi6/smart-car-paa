@@ -27,12 +27,4 @@ untuk versi ini menggunakan algoritma DFS.
 
 ---
 
-# contributor
-<ul>
-  <li>Tekad Matulatan</li>
-  <li>Dendi</li>
-</ul>
-
----
-
 ©Teknik Informatika
